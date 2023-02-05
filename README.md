@@ -29,4 +29,4 @@ For accuracy, I suppose dividing the turtles into three breeds (immune, infected
 
 ## RELATED MODELS
 
-I have noticed that there is a model called *virus* in the model library. There might be similarities between my created model and this model. However, this model was inspired and created from the frame *Communication T-T Example*. 
+I have noticed that there is a model called *virus* in the model library. There might be similarities between my created model and this model. However, my model was inspired and created from the frame *Communication T-T Example*. 
